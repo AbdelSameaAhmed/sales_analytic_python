@@ -15,7 +15,7 @@ import openpyxl
 
 # Adjust the width of the Streamlit page
 st.set_page_config(
-    page_title="YTD Oct In market sales",
+    page_title="Data Analytics",
     layout="wide",page_icon="📊"
 )
 
