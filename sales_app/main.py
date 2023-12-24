@@ -90,5 +90,3 @@ if data_file:
 
     # Render your data exploration interface. Developers can use it to build charts by drag and drop.
     renderer.render_explore()
-else: 
-    init_streamlit_comm()
