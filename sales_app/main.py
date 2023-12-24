@@ -24,10 +24,6 @@ st.set_page_config(
 st.markdown("""
     <style>
 
-        svg
-            {
-               visibility:hidden;
-            }
 
             .viewerBadge_link__qRIco
             {
