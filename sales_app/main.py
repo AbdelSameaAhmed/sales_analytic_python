@@ -59,22 +59,6 @@ st.markdown("""
            {
                visibility:hidden;
            }
-           
-            .st-emotion-cache-q16mip.e3g6aar1
-            {
-                visibility:hidden;
-            }
-            
-            .st-emotion-cache-1wbqy5l.e3g6aar2
-            {
-                visibility:hidden;
-            }
-            
-        .st-emotion-cache-6q9sum.ef3psqc4  
-
-            {
-                visibility:hidden;
-            }
             
             .p-1.5.opacity-70
             {
