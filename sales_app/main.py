@@ -23,6 +23,11 @@ st.set_page_config(
 
 st.markdown("""
     <style>
+
+        svg
+            {
+                visibility:hidden;visibility:hidden;
+            }
         .st-emotion-cache-1wbqy5l.e17vllj40
             {
                 visibility:hidden;
