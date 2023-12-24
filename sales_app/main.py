@@ -26,43 +26,63 @@ st.markdown("""
 
         svg
             {
-                visibility:hidden;visibility:hidden;
+               visibility:hidden;
             }
+            
+        .viewerBadge_container__r5tak styles_viewerBadge__CvC9N
+            {
+                 visibility:hidden;
+            }
+            
+        .viewerBadge_text__fzr3E
+            {
+                 visibility:hidden;
+            }   
+            
+        .viewerBadge_link__qRIco
+            {
+                visibility:hidden;
+            }
+            
         .st-emotion-cache-1wbqy5l.e17vllj40
             {
                 visibility:hidden;
             }
+            
            .styles_terminalButton__JBj5T
            {
                visibility:hidden;
            }
-
+           
             .st-emotion-cache-q16mip.e3g6aar1
             {
                 visibility:hidden;
             }
+            
             .st-emotion-cache-1wbqy5l.e3g6aar2
             {
                 visibility:hidden;
             }
+            
         .st-emotion-cache-6q9sum.ef3psqc4  
             {
                 visibility:hidden;
             }
-
+            
             .p-1.5.opacity-70
             {
                 visibility:hidden;
             }
 
             .sc-ewnqHT.vufNk
-            {
-                visibility:hidden;
-            }
+                {
+                    visibility:hidden;
+                }
 
             img {
                 visibility:hidden;
             }
+            
             .p-1\.5{
                 visibility:hidden;
             }
@@ -73,6 +93,7 @@ st.markdown("""
             }
 
     </style>
+    
 """, unsafe_allow_html=True)
 
 
