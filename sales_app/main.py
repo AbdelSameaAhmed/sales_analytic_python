@@ -58,11 +58,6 @@ st.markdown("""
                 visibility:hidden;
             }
             
-        .st-emotion-cache-1wbqy5l.e17vllj40
-            {
-                visibility:hidden;
-            }
-            
            .styles_terminalButton__JBj5T
            {
                visibility:hidden;
@@ -79,6 +74,7 @@ st.markdown("""
             }
             
         .st-emotion-cache-6q9sum.ef3psqc4  
+
             {
                 visibility:hidden;
             }
