@@ -29,6 +29,11 @@ st.markdown("""
                visibility:hidden;
             }
             
+        .styles_terminalButton__JBj5T
+            {
+                 visibility:hidden; 
+            }
+            
         .viewerBadge_container__r5tak styles_viewerBadge__CvC9N
             {
                  visibility:hidden;
