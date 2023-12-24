@@ -27,6 +27,10 @@ st.markdown("""
             {
                 visibility:hidden;
             }
+           .styles_terminalButton__JBj5T
+           {
+               visibility:hidden;
+           }
 
             .st-emotion-cache-q16mip.e3g6aar1
             {
