@@ -23,22 +23,31 @@ st.set_page_config(
 
 st.markdown("""
     <style>
-
+    
         svg
             {
                visibility:hidden;
+            }
+
+            .viewerBadge_link__qRIco
+            {
+                visibility:hidden;
             }
             
         .styles_terminalButton__JBj5T
             {
                  visibility:hidden; 
             }
-            
+        
         .viewerBadge_container__r5tak styles_viewerBadge__CvC9N
             {
                  visibility:hidden;
             }
-            
+        .viewerBadge_text.fzr3E
+        {
+            visibility:hidden;
+        }
+        
         .viewerBadge_text__fzr3E
             {
                  visibility:hidden;
