@@ -23,10 +23,7 @@ st.set_page_config(
 
 st.markdown("""
     <style>
-        body 
-        {
-            background_color:black;
-        }
+
         svg
             {
                visibility:hidden;
