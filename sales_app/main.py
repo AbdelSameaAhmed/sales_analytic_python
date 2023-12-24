@@ -66,8 +66,11 @@ init_streamlit_comm()
 st.title("YTD In market sales")
 # @st.cache_data
 # data_file = st
+
+# @st.cache
 data_file = st.file_uploader("Upload Excel file :file_folder:",type='.xlsx',accept_multiple_files=False)
 
+# @st.cache_data
 # Get an instance of pygwalker's renderer. You should cache this instance to effectively prevent the growth of in-process memory.
 if data_file:
     @st.cache_resource
