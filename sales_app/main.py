@@ -29,7 +29,10 @@ st.markdown("""
             {
                 visibility:hidden;
             }
-            
+            .st-emotion-cache-zq5wmm.ezrtsby0
+            {
+                visibility:hidden;
+            }
            .stActionButtonLabel
            {
                visibility:hidden;
