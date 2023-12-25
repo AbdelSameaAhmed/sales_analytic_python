@@ -29,55 +29,58 @@ st.markdown("""
             {
                 visibility:hidden;
             }
+            
             .st-emotion-cache-zq5wmm.ezrtsby0
             {
                 visibility:hidden;
             }
+            
            .stActionButtonLabel
-           {
+            {
                visibility:hidden;
-           }
+            }
         
-        .viewerBadge_container__r5tak styles_viewerBadge__CvC9N
+           .viewerBadge_container__r5tak styles_viewerBadge__CvC9N
             {
                  visibility:hidden;
             }
-        .viewerBadge_text.fzr3E
-        {
-            visibility:hidden;
-        }
+            
+           .viewerBadge_text.fzr3E
+            {
+                visibility:hidden;
+            }
         
-        .viewerBadge_text__fzr3E
+           .viewerBadge_text__fzr3E
             {
                  visibility:hidden;
             }   
             
-        .viewerBadge_link__qRIco
+          .viewerBadge_link__qRIco
             {
                 visibility:hidden;
             }
             
-
-            
-            .p-1.5.opacity-70
+          .p-1.5.opacity-70
             {
                 visibility:hidden;
             }
 
-            .sc-ewnqHT.vufNk
-                {
-                    visibility:hidden;
-                }
+          .sc-ewnqHT.vufNk
+            {
+                visibility:hidden;
+            }
 
-            img {
+           img 
+            {
                 visibility:hidden;
             }
             
-            .p-1\.5{
+           .p-1\.5
+            {
                 visibility:hidden;
             }
 
-        #kanaries-logo
+           #kanaries-logo
             {
                 visibility:hidden;
             }
@@ -85,7 +88,6 @@ st.markdown("""
     </style>
     
 """, unsafe_allow_html=True)
-
 
 # Establish communication between pygwalker and streamlit
 init_streamlit_comm()
