@@ -30,7 +30,10 @@ st.markdown("""
                 visibility:hidden;
             }
             
-   
+           .stActionButtonLabel
+           {
+               visibility:hidden;
+           }
         
         .viewerBadge_container__r5tak styles_viewerBadge__CvC9N
             {
