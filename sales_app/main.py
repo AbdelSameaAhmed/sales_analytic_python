@@ -29,6 +29,11 @@ st.markdown("""
             {
                 visibility:hidden;
             }
+
+            .p-1.5 opacity-70 hover:opacity-100
+            {
+                visibility:hidden;
+            }
             
             .st-emotion-cache-zq5wmm.ezrtsby0
             {
