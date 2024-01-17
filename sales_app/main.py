@@ -23,7 +23,10 @@ st.set_page_config(
 
 st.markdown("""
     <style>
-
+            #kanaries-logo
+            {
+                visibility:hidden;
+            }
 
             .viewerBadge_link__qRIco
             {
